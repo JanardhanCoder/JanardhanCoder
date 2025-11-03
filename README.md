@@ -37,5 +37,5 @@ Designed and developed interactive Power BI dashboards such as:
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/janardan-t-123932252/).
+- 💼 [LinkedIn](https://www.linkedin.com/in/janardan-t-123932252/).
 - ✉️ janardan20K@gmail.com
