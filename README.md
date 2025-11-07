@@ -1,22 +1,38 @@
-👋**Hi, I'm Janardhan**  
+<div align="center">
+
+🚀 **Hi, I'm Janardhan**
+  
+Business Central Developer | MB-820 Certified | RDLC | Microsoft SQL | Power BI | Integrations
+  </div>
+
+ **About Me**
+ 
 💻 **Business Central Developer (2+ years experience)**  
 🎓 Currently pursuing MBA in Finance  
 🚀 Passionate about AL coding, RDLC reports, and integrating Power BI with BC.
 
----
-![Busines Central](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/SEABORN-1E90FF?style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VSCODE-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+🛠️ **Tools & Technologies**
+<div align="center">
+
+<img src="https://img.shields.io/badge/Dynamics%20365%20Business%20Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Business Central" />
+
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
+
+<img src="https://img.shields.io/badge/Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+</div>
+
+
+
 
 ### 🧰 Skills
 - 💡 AL Language, RDLC, Power BI
@@ -49,5 +65,15 @@ Designed and developed interactive Power BI dashboards such as:
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/janardan-t-123932252/).
-- ✉️ janardan20K@gmail.com
+<div align="center">
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<!-- Gmail -->
+<a href="mailto:YOURMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</div>
+
