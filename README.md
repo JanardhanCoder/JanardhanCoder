@@ -14,41 +14,76 @@ Business Central Developer | MB-820 Certified | RDLC | Microsoft SQL | Power BI 
 🛠️ **Tools & Technologies**
 <div align="center">
 
-<img src="https://img.shields.io/badge/Dynamics%20365%20Business%20Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Business Central" />
-
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+![Dynamics 365 Business Central](https://img.shields.io/badge/Dynamics%20365%20Business%20Central-007C89?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-A4373A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=sharepoint&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
 
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
-
-<img src="https://img.shields.io/badge/Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
-
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
 </div>
 
 
 
+🧰 Skills
 
-### 🧰 Skills
-- 💡 AL Language, RDLC, Power BI
-- 🧾 Functional Modules: Finance, Manufacturing, Jobs
-- ☁️ Business Central Cloud / On-Premise Customization
-- 🔧 Extensions, Reports, API Integration
+💡 AL Language, RDLC, Power BI, SQL Server
 
----
+🧾 Functional Modules: Sales, Purchase, Finance, Manufacturing, Jobs, and Inventory
 
-### 📈 Projects
-### Power BI Dashboards
-Designed and developed interactive Power BI dashboards such as:
-• Unit Status Dashboard: Designed visual dashboards showing total property value, unit status, category, and city-wise performance.
-• CRM Dashboard: Visualized customer interactions, lead conversion rates, and sales performance for better decision-making.
-• Financial Dashboard: Monitored key financial KPIs including revenue, expenses, and profit margins with drill-through analysis.
-• Integrated Power BI reports into Dynamics 365 Business Central, enhancing data visibility for end-users.
+☁️ Business Central Cloud / On-Premise Customization
+
+🔧 Extensions, Reports, API Integration
+
+🧱 Workflow Automation using Power Automate
+
+📊 Data Visualization and KPI Dashboards in Power BI
+
+🔐 OAuth, Azure AD & API Authentication for integrations
+
+🗂 SharePoint & Document Management integration with BC
+
+
+
+### 🧩 Featured Projects
+
+- **🔹 Real Estate Sales Module for Business Central**
+   >Designed and developed a custom Real Estate Sales module in AL to manage property listings, customer bookings, and payment schedules. Integrated with BC’s Finance module for automated invoicing and revenue tracking.
+   >[View on GitHub](https://github.com/JanardhanCoder/RealEstate-Module)
+
+
+- **🔹 Business Central SharePoint Integration**
+  > Developed a custom AL extension to integrate SharePoint for document uploads directly from Business Central.
+  [View on GitHub](https://github.com/JanardhanCoder/SharePoint-Integration)
+
+- **🔹 Power BI Integration with Business Central**
+  > Automated data flow from BC to Power BI for real-time dashboards and financial analytics.
+  [View on GitHub](https://github.com/JanardhanCoder/RealEstate-Power-BI-Dashboard)
+
+- **🔹 RDLC Report Pack**
+  > Created a collection of reusable RDLC report templates (Sales, Purchase, Payment Receipt).
+  [View on GitHub](https://github.com/JanardhanCoder/Sales-Offer-Report)
+
+
+
+### 🧠 Learning & Certifications
+- MB-820: Microsoft Dynamics 365 Business Central Developer ✅
+- Azure Fundamentals (in progress)
+- Power BI Data Analyst (next target)
+- MBA in Finance (Ongoing)
+
+
+
+### 🚀 Career Goals
+Aspiring to become a **Dynamics 365 Techno-Functional Consultant**, bridging business and technology through Business Central, Power Platform, and Azure integrations.
+
 
 
 ---
