@@ -40,8 +40,6 @@ Business Central Developer | MB-820 Certified | RDLC | Microsoft SQL | Power BI 
 
 ☁️ Business Central Cloud / On-Premise Customization
 
-🔧 Extensions, Reports, API Integration
-
 🧱 Workflow Automation using Power Automate
 
 📊 Data Visualization and KPI Dashboards in Power BI
@@ -92,11 +90,11 @@ Aspiring to become a **Dynamics 365 Techno-Functional Consultant**, bridging bus
 <div align="center">
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/janardan-t-123932252/" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <!-- Gmail -->
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:janardan20k@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </div>
